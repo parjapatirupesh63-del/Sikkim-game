@@ -1,0 +1,2 @@
+# Sikkim-game
+Betting game 
